@@ -2,7 +2,7 @@
   "name": "covid-react",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/giakinh0823/covid-tracking-react",
+  "homepage": "https://github.com/giakinh0823/covid-tracking/",
   "dependencies": {
     "@fontsource/roboto": "^4.4.0",
     "@highcharts/map-collection": "^1.1.3",
@@ -27,7 +27,8 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
