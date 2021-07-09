@@ -2,7 +2,7 @@
   "name": "covid-react",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/giakinh0823/covid-tracking/",
+  "homepage": "https://giakinh0823.github.io/covid-tracking/",
   "dependencies": {
     "@fontsource/roboto": "^4.4.0",
     "@highcharts/map-collection": "^1.1.3",
